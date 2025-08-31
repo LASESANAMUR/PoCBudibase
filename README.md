@@ -40,6 +40,5 @@ Ce guide vous montre comment **importer un workspace Budibase** à partir d'un f
 - Assurez-vous que le fichier exporté correspond bien à la version de Budibase que vous utilisez.  
 - Conservez le mot de passe en lieu sûr, il sera nécessaire pour les imports futurs si l’export est chiffré.  
 
----
 
-> 💡 Astuce : Vous pouvez mettre les images dans un dossier `images/` à la racine du repo et les nommer `etape1_settings.png`, `etape2_import.png`, `etape3_add_export.png`.
+
